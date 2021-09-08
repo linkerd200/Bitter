@@ -1,0 +1,4 @@
+base58~=2.1.0
+ecdsa~=0.17.0
+git+https://github.com/mcdallas/cryptotools.git@master#egg=cryptotools
+requests~=2.26.0
