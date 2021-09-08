@@ -1,6 +1,6 @@
 # Bitter
 
-Bitter is a convent tool for checking Bitcoin wallets balance using blockchain.info API. It generates private key and public key pair along with uncompressed and compressed wallet addresses/WIF, then trying to get most recent data about wallets, if it's successful, writes data to "success_file.txt". Enjoy it!
+Bitter is a convent tool for checking Bitcoin wallets balance using blockchain.info API. It generates private key and public key pair along with uncompressed and compressed wallet addresses/WIF, then trying to get most recent data about wallets, if the balance greater than 0, writes data to "success_file.txt". Enjoy it!
 
 ## Installation
 
